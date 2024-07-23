@@ -1,4 +1,4 @@
-# Ex.No: CONVERSION OF NON STATIONARY TO STATIONARY DATA
+# CONVERSION OF NON STATIONARY TO STATIONARY DATA
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
